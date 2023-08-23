@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header Design */
+
+.header{
+    background-color: rgb(4, 1, 21);
+    opacity: 0.9;
+    height:900px;
+    width: vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+.header-content{
+   padding: 300px;
+}
+.header-tiitle{
+    color: #fff;
+    font-weight: 700;
+    font-size: 80px;
+    
+    
+}
+.header-description{
+    color: #fff ;
+    font-size: 20px;
+    padding: 30px 230px;
+}
+.btn-primary{
+    background-color: rgb(240, 49, 49);
+    border: 1px solid rgb(202, 67, 67);
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 0.9px;
+}
+/* Donate-toady Design */
+.section-tittle{
+    margin: 130px 230px;
+    text-align: center;
+    
+}
+.section-heading{
+    font-size: 60px;
+    font-weight: 700;
+    
+}
+.section-descrition{
+    padding: 30px 230px;
+    font-size: 25px;
+    color: #757575;
+  }
+  
+  
+  .donate-today-list{
+    list-style: none;
+    display: flex;
+    gap: 70px;
+    font-size: 35px;
+    font-weight: 900;
+    color: #474747;
+    margin: 60px 202px;
+  }
+  .tk{
+    border: 3px solid #f03131;
+    padding: 40px;
+    border-radius: 10px;
+    color: #f03131;
+    background-color: rgb(245, 245, 233);
+  }
+  .section-other-amount{
+    color: #8a8585;
+    font-size: 25px;
+    border: 1px solid white;
+    padding: 70px 0px 10px 0px; }
+  /* our donate plan */
+
+   .section-descrition2{
+    padding: 0px 230px;
+    font-size: 25px;
+    color: #757575;
+
+   }
+
+
+  /* Food,shelter and education section design */
+
+  .food-shelter-education{
+    display: flex;
+    margin: 0px 230px;
+    gap: 30px;
+    
+  }
+  .home1{
+    padding-right: 60px;
+    background-color: rgba(221, 242, 247, 0.534);
+    border: 10px solid rgrgba(221, 242, 247, 0.534); 
+    border-radius: 10px;
+    padding: 20px 60px 60px 20px;
+ }
+  .home2{
+    padding-right: 60px;
+    background-color: rgba(248, 240, 230, 0.881);
+    border: 10px solid rgba(248, 240, 230, 0.881);
+    border-radius: 10px;
+    padding: 20px 60px 60px 20px;
+    
+  }
+  .home3{
+    background-color: rgb(248, 248, 189);
+    border: 10px solid solid rgb(248, 248, 189);
+    border-radius: 10px ;
+    padding: 20px 60px 60px 20px;
+    
+  }  
+.food-shelter-education .heading{
+  font-size: 25px;
+  font-weight: 700;
+  margin: 20px 0px;
+}
+.food-shelter-education .description{
+  font-size: 20px;
+  color: #757575;
+}
+
+/* live-depend-donation */
+
+.live-depend-donation{
+  padding: 130px 245px;
+  display: flex;
+  gap: 40px;
+  
+}
+img1{
+  margin-left: 40px;
+}
+.live-depend-donation .tittle{
+  font-size: 50px;
+  font-weight: 1000;
+
+}
+.live-depend-donation .description{
+  margin: 10px 0px 30px;
+  font-size: 25px;
+  color: #757575;
+}
+.btn-secondary{
+  background-color: rgb(240, 49, 49);
+    border: 1px solid rgb(202, 67, 67);
+    height: 70px;
+    width: 270px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 0.9px;
+}
+/* They need us to suvive */
+
+
+
+.divva{
+ margin-left: 90px;
+}
+img2{
+  margin-right: 50px;
+}
+
+/* Contact Form Design */
+.contact-form-design{
+  margin: 130px 450px;
+    text-align: center;
+    background-color: rgba(248, 248, 189, 0.737);
+    justify-content: center;
+    height: 300px;
+    width: 1000px;
+    
+}
+
+
+  input{
+    width: 461px;
+    height: 64px;
+    border: 0px solid rgba(161, 156, 156, 0.465) ;
+    border-radius: 5px;
+   font-size: 20px;
+   background-color:rgba(161, 156, 156, 0.465);
+   margin-top: 130px;
+  }
+  
+/* footer style */
+.footer{
+  background-color: rgb(4, 1, 21);
+  height: 200px;
+  width: vw;
+}
+.footer-tittle{
+  font-size: 50px;
+  color: rgb(239, 94, 101);
+  text-align: center;
+  /* font-family: 'Pacifico', cursive; */
+  font-family: 'Yellowtail', cursive;
+  padding-top: 50px;
+  letter-spacing: 0.9px;
+}
+.footer-description{
+  color: #ede4e4;
+  font-size: 16px;
+  text-align: center;
+}
